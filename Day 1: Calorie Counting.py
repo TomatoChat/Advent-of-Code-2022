@@ -1,7 +1,6 @@
-with open('2022-12-01.txt') as f:
+with open('Day 1 Calorie Counting DATA.txt') as f:
     lines = f.readlines()
 
-previousChar = ""
 elfNumber = 0
 elvesCalories = [[]]
 
